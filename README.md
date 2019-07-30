@@ -2,7 +2,7 @@
 
 **Teste 1**
 
-Construir uma api calculando o totalPrice para os hotéis retornado do seguinte broker:
+Construir uma api calculando o *totalPrice* para os hotéis retornados do seguinte broker:
 
 *https://cvcbackendhotel.herokuapp.com/hotels/avail/{ID_da_Cidade}*
 
