@@ -1,5 +1,18 @@
 # HotelApp
 
+Api construída para atender o teste Opah.
+
+Backend: 
+  - Java 1.8
+  - SpringBoot 2
+  
+  
+Frontend:
+  - thymeleaf
+  - materialize
+
+## Detalhes do Teste e api
+
 **Teste 1**
 
 Construir uma api calculando o *totalPrice* para os hotéis retornados do seguinte broker:
@@ -13,7 +26,6 @@ URL: Construa a URL como achar melhor
 Method: GET
 
 Parametros obrigatórios:
-
 
 CityCode
 Checkin
@@ -31,6 +43,7 @@ checkin e checkout devem seguir a seguinte forma dd/mm/yyyy
 Exemplo de response:
 
 [ { "id": 1, "cityName": "Porto Seguro", "rooms": [ { "roomID": 0, "categoryName": "Standard", "price": { "adult": 1372.54, "child": 848.61, "totalPrice": 15865.35 } } ] } ]
+
 
 **Teste 2**
 
