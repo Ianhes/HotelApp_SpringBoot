@@ -8,7 +8,9 @@ Construir uma api calculando o *totalPrice* para os hotéis retornados do seguin
 
 Detalhes do serviço:
 
-URL: Construa a URL como achar melhor Method: GET
+URL: Construa a URL como achar melhor 
+
+Method: GET
 
 Parametros obrigatórios:
 
