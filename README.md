@@ -14,11 +14,14 @@ Method: GET
 
 Parametros obrigatórios:
 
+
 CityCode
 Checkin
 Checkout
 Quantidade de Adultos
 Quantidade de Crianças
+
+
 Exemplo de utilização para o serviço criado:
 
 *http://localhost:8080/hotelApi/totalPriceHotels?city=1032&checkin=05/08/2019&checkout=10/08/2019&numAdult=1&numChild=1*
